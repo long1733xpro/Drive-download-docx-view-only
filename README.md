@@ -14,7 +14,7 @@
 - Dán **link Google Drive hoặc Google Docs (view only)** vào file  
 - Mỗi dòng chứa **1 link**
 
-Ví dụ:
+Ví dụ:  
 https://drive.google.com/file/d/xxxxxx/view  
 https://docs.google.com/document/d/xxxxxxx/view
 
